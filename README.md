@@ -12,5 +12,8 @@ copying  https://github.com/osmateos/cogservworkshop.git on the Github repo name
 
 ## Content
 - [Face Api](FaceAPIbinder.ipynb)
+Demo of the face api analyzing some url pictures and local pictures
 - [Custom visio](VisionAPIbinder.ipynb)
+Demo of the custom visio api and some of the features all reading from URL's 
 - [Text Analytics](wikianalyticsbinder.ipynb)
+Demo of the Text Analytics api using Realtime streams from wikipedia for entity extraction and scraping web for sentimental analysis
