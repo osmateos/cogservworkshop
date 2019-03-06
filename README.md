@@ -18,5 +18,5 @@ Demo of the custom visio api and some of the features all reading from URL's
 - [Text Analytics](wikianalyticsbinder.ipynb)
 Demo of the Text Analytics api using Realtime streams from wikipedia for entity extraction and scraping web for sentimental analysis
 
-## Contributoe
-![Image description](face.jpg)
+## Contributor
+![Picture to be used on the faceapi demo](face.jpg)
