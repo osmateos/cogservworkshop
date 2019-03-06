@@ -1,4 +1,4 @@
-# cogservworkshop
+# Cognitive Service Workshop
 
 
 ## How to run notebooks
@@ -17,3 +17,6 @@ Demo of the face api analyzing some url pictures and local pictures
 Demo of the custom visio api and some of the features all reading from URL's 
 - [Text Analytics](wikianalyticsbinder.ipynb)
 Demo of the Text Analytics api using Realtime streams from wikipedia for entity extraction and scraping web for sentimental analysis
+
+## Contributoe
+![Image description](face.jpg)
