@@ -19,4 +19,5 @@ Demo of the custom visio api and some of the features all reading from URL's
 Demo of the Text Analytics api using Realtime streams from wikipedia for entity extraction and scraping web for sentimental analysis
 
 ## Contributor
-![Picture to be used on the faceapi demo](face.jpg =100x20)
+![Picture to be used on the faceapi demo](face.jpg)
+<img src="face.jpg" width="40%">.
